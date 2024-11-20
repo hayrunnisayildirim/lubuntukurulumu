@@ -1,0 +1,2 @@
+# lubuntukurulumu
+lubuntu kurulum adımları
